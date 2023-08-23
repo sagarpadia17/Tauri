@@ -16,7 +16,7 @@
       "url": ""
     },
     "windows-x86_64": {
-      "signature": "Content of app-setup.nsis.sig or app.msi.sig, depending on the chosen format",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeVpDL1BoVVZ4MGF3M25TNE5ROHZSTjliWWxGSlVCVExLcVJRZmdIMjRnWFZjdGVyRHF5cklKZ2N2QnBPazZrK2hYZDZEa2N6U0ZQc2YxdExWbU1rMTM0UGZZQWlSdUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkyNzg4MjExCWZpbGU6Q2FyWWFhcl8wLjAuOF94NjQtc2V0dXAubnNpcy56aXAKdy90ZGRkRlBDcFJ4RTBjQ0JVSjJrb1NoL2FvSVRYcUR1N0lwcE82aVBRcElYRFNLQTRkQlM5Qis1ZnVoa05TMU10dm1RdFBxTmtEckhJVUswTTh2QlE9PQo=",
       "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-x64-setup.nsis.zip"
     }
   }
