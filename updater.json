@@ -3,18 +3,6 @@
   "notes": "Test version",
   "pub_date": "2020-06-22 T19:25:57Z",
   "platforms": {
-    "darwin-x86_64": {
-      "signature": "",
-      "url": ""
-    },
-    "darwin-aarch64": {
-      "signature": "",
-      "url": ""
-    },
-    "linux-x86_64": {
-      "signature": "",
-      "url": ""
-    },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeVpDL1BoVVZ4MGF3M25TNE5ROHZSTjliWWxGSlVCVExLcVJRZmdIMjRnWFZjdGVyRHF5cklKZ2N2QnBPazZrK2hYZDZEa2N6U0ZQc2YxdExWbU1rMTM0UGZZQWlSdUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkyNzg4MjExCWZpbGU6Q2FyWWFhcl8wLjAuOF94NjQtc2V0dXAubnNpcy56aXAKdy90ZGRkRlBDcFJ4RTBjQ0JVSjJrb1NoL2FvSVRYcUR1N0lwcE82aVBRcElYRFNLQTRkQlM5Qis1ZnVoa05TMU10dm1RdFBxTmtEckhJVUswTTh2QlE9PQo=",
       "url": "https://github.com/sagarpadia17/Tauri/blob/main/CarYaar_0.0.8_x64-setup.nsis.zip"
